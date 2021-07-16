@@ -4,7 +4,6 @@
     <div class="main">
         <h2> {{ page.title }} </h2>
         {{ content }}
-        {% if page.categories %}
         <div class="post_footer">
           <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
           {% endfor %}
