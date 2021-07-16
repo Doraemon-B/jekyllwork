@@ -1,9 +1,7 @@
 jekyll-theme-solid
 =================
 
-A simple and clean jekyll theme without javascript.
 
-Online Demo: <https://mazhuang.org/jekyll-theme-solid>
 
 ## Screenshots
 
