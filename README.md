@@ -1,4 +1,4 @@
-jekyll-theme-solid
+jekyll-work
 =================
 
 
