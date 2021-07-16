@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 友情链接
-description: 朋友们的博客和主页
+title: B站链接
+description: 学习网站
 keywords: 友情链接
 permalink: /links/
 ---
 
 <ul>
-<li><a href="http://mazhuang.org/">码志</a></li>
+<li><a href="https://www.bilibili.com/video/BV1a5411a7bF/?spm_id_from=333.788.recommend_more_video.-1">bilibili</a></li>
 </ul>
