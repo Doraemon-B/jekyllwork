@@ -8,7 +8,7 @@ keywords: Markdown
 
 ### 目录
 
-* [超链接](#超链接)
+
 * [列表](#列表)
 * [强调](#强调)
 * [标题](#标题)
@@ -18,17 +18,6 @@ keywords: Markdown
 * [锚点](#锚点)
 * [Emoji](#emoji)
 
-### 超链接
-
-```
-[码志](http://mazhuang.org)
-
-<http://mazhuang.org>
-```
-
-[码志](http://mazhuang.org)  
-
-<http://mazhuang.org>
 
 ### 列表
 
