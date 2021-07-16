@@ -2,7 +2,7 @@
 layout: page
 title: B站链接
 description: 学习网站
-keywords: 友情链接
+keywords: 链接
 permalink: /links/
 ---
 
